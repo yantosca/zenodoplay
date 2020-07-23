@@ -1,0 +1,21 @@
+{
+   "license": "other-open", 
+   "upload_type": "software", 
+   "publication_date": "2020-07-08", 
+   "creators": [
+      {
+         "name": "Matthew Thompson",
+         "affiliation": "GMAO SSAI"
+      }, 
+      {
+         "name": "Robert Yantosca",
+         "affiliation": "Harvard!"
+      }
+   ],
+   "keywords": [
+      "github",
+      "json",
+      "stuff"
+   ],
+   "access_right": "open"
+}
