@@ -14,17 +14,7 @@
             "affiliation": "Harvard University"
         }
     ],
-    "contributors": [
-        {
-	    "name": "Haipeng Lin",
-            "affiliation": "Harvard University"
-        },
-        {
-            "name": "Kyle Shores",
-            "affiliation": "National Center for Atmospheric Research"
-        }
-    ],
-    "description": "Cloud-J: A multi-scattering eight-stream radiative transfer model for solar radiation.",
+    "description": "Cloud-J is a multi-scattering eight-stream radiative transfer model for solar radiation based on Fast-J. It was originally developed by Michael J. Prather (UC Irvine).",
     "keywords": [
         "radiative-transfer",
 	"clouds",
@@ -39,3 +29,4 @@
     "license": "gpl-3.0-license",
     "upload_type": "software"
 }
+
