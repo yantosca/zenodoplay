@@ -1,23 +1,30 @@
 {
     "access_right": "open",
     "creators": [
-	{
-	    "name": "Author 1",
-	    "affiliation": "Place 1"
-	},
-	{
-	    "name": "Author 2",
-	    "affiliation": "Place 2"
-	},
-	{
-	    "name": "Author 3"
-	}
+        {
+            "name": "Elizabeth Lundgren",
+            "affiliation": "Harvard University"
+        },
+        {
+            "name": "Michael Prather",
+            "affiliation": "University of California, Irvine"
+        },
+        {
+            "name": "Daniel Jacob",
+            "affiliation": "Harvard University"
+        }
     ],
-    "description": "Testing the Zenodo JSON file",
+    "description": "Cloud-J is a multi-scattering eight-stream radiative transfer model for solar radiation based on Fast-J. It was originally developed by Michael J. Prather (UCI).",
     "keywords": [
-	"keyword-1",
-	"keyword-2",
-	"keyword-3"
+        "radiative-transfer",
+	"clouds",
+	"geos-chem",
+        "atmospheric-chemistry",
+	"atmospheric-modeling",
+	"photolysis",
+        "atmospheric-composition",
+	"aerosols",
+	"earth-system-modeling"
     ],
     "license": "mit-license",
     "upload_type": "software"
