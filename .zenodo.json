@@ -1,31 +1,22 @@
 {
     "access_right": "open",
     "creators": [
-        {
-            "name": "Elizabeth Lundgren",
-            "affiliation": "Harvard University"
-        },
-        {
-            "name": "Michael Prather",
-            "affiliation": "University of California, Irvine"
-        },
-        {
-            "name": "Daniel Jacob",
-            "affiliation": "Harvard University"
-        }
+	{
+	    "name": "The International GEOS-Chem User Community"
+	}
     ],
-    "description": "Cloud-J: A multi-scattering eight-stream radiative transfer model for solar radiation.",
+    "description": "GEOS-Chem in Classic mode (single-node, OpenMP parallelization)",
     "keywords": [
-        "radiative-transfer",
-        "clouds",
-        "geos-chem",
-        "atmospheric-chemistry",
-        "atmospheric-modeling",
-        "photolysis",
-        "atmospheric-composition",
-        "aerosols",
-        "earth-system-modeling"
+	"atmospheric-chemistry",
+	"atmospheric-composition",
+	"atmospheric-modeling",
+	"aws",
+	"climate-modeling",
+	"cloud-computing",
+	"geos-chem",
+	"atmospheric-computing",
+	"scientific-computing"
     ],
-    "upload_type": "software",
-    "license": "GPL-3.0"
+    "license": "mit-license",
+    "upload_type": "software"
 }
