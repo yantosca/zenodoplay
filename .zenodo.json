@@ -2,24 +2,22 @@
     "access_right": "open",
     "creators": [
 	{
-	    "name": "The International GEOS-Chem User Community",
-	    "affiliation": "Harvard University"
+	    "name": "Author 1",
+	    "affiliation": "Place 1"
 	},
 	{
-	    "name": "The International GEOS-Chem User Community",
+	    "name": "Author 2",
+	    "affiliation": "Place 2"
+	},
+	{
+	    "name": "Author 3"
 	}
     ],
     "description": "Testing the Zenodo JSON file",
     "keywords": [
-	"atmospheric-chemistry",
-	"atmospheric-composition",
-	"atmospheric-modeling",
-	"aws",
-	"climate-modeling",
-	"cloud-computing",
-	"geos-chem",
-	"atmospheric-computing",
-	"scientific-computing"
+	"keyword-1",
+	"keyword-2",
+	"keyword-3"
     ],
     "license": "mit-license",
     "upload_type": "software"
