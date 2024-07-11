@@ -26,6 +26,6 @@
         "aerosols",
         "earth-system-modeling"
     ],
-    "license": "gpl-3.0-license",
-    "upload_type": "software"
+    "upload_type": "software",
+    "license": "gpl-3.0-license"
 }
