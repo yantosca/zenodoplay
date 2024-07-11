@@ -16,12 +16,12 @@
     ],
     "contributors": [
         {
-	    "name": "Haipeng Lin"
-            "affiliation": "Harvard University",
+	    "name": "Haipeng Lin",
+            "affiliation": "Harvard University"
         },
         {
-            "name": "Kyle Shores"
-            "affiliation": "National Center for Atmospheric Research",
+            "name": "Kyle Shores",
+            "affiliation": "National Center for Atmospheric Research"
         }
     ],
     "description": "Cloud-J: A multi-scattering eight-stream radiative transfer model for solar radiation.",
@@ -39,4 +39,3 @@
     "license": "gpl-3.0-license",
     "upload_type": "software"
 }
-
